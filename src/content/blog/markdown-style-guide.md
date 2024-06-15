@@ -1,8 +1,8 @@
 ---
-title: 'Markdown Style Guide'
+title: 'Pszczoła miodna (Apis mellifera)'
 description: 'Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.'
 pubDate: 'Jul 01 2022'
-heroImage: '/blog-placeholder-1.jpg'
+heroImage: '/pszczola_miodna.jpg'
 ---
 
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
