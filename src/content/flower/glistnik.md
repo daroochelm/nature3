@@ -1,7 +1,7 @@
 ---
 title: 'Glistnik'
 description: '(Chelidonium majus)'
-pubDate: 'Jul 02 2022'
+pubDate: 'Jul 11 2022'
 heroImage: '/glistnik.jpg'
 ---
 

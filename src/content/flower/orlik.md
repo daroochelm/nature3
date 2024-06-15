@@ -1,7 +1,7 @@
 ---
 title: 'Orlik pospolity'
 description: '(Aquilegia vulgaris L.)'
-pubDate: 'Jul 09 2022'
+pubDate: 'Jul 01 2022'
 heroImage: '/orlik_pospolity.jpg'
 ---
 
